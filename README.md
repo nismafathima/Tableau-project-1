@@ -5,7 +5,8 @@
 
 A **Tableau project** that provides interactive dashboards and insights into **call center performance**. The goal is to help organizations monitor KPIs, improve customer service, and optimize agent productivity.
 
----
+---<img width="1885" height="796" alt="Screenshot 2026-01-16 214721" src="https://github.com/user-attachments/assets/608fb782-ca4c-480c-82c6-5dbc5acffcdd" />
+
 
 ## ✨ Features
 - 📊 **Call Volume Analysis** – Track total calls, answered vs. missed calls, and peak hours.  
